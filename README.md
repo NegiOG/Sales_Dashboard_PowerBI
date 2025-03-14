@@ -10,6 +10,7 @@ allowing for an in-depth analysis of **sales trends and business performance**.
 
 ## 🔗 **How to View the Dashboard**
 1️⃣ Download **Retail_Sales_Dashboard.pbix** -  **https://drive.google.com/file/d/1U-U3JRlaizpf_bIjG40yt62Ie9KZhzxQ/view?usp=drive_link**
+
 2️⃣ Open in **Power BI Desktop**  
 3️⃣ Interact with filters, slicers, and drill-through features
 
