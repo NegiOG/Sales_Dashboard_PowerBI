@@ -72,6 +72,7 @@ allowing for an in-depth analysis of **sales trends and business performance**.
 📊 **Seasonal Sales Trends** → Line Chart (Sales during different seasons)
 
 **Sneak Peak**
+
 ![image](https://github.com/user-attachments/assets/0a5c1cf4-00b6-493d-8d44-6ebe616c8047)
 
 
